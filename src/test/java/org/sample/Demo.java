@@ -16,10 +16,17 @@ import java.io.File;
 public class Demo {
 	
 	
+
 	
 	private void kavitha() {
 		
 		System.out.println("Hi this is kavitha");
+		
+	}
+
+	private void kalai() {
+		
+		System.out.println("Hi this is kalai");
 
 	}
 	
@@ -31,6 +38,27 @@ public class Demo {
 	
 	
 	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+>>>>>>> 3cd2c447a3180db2e91a6e7ecbe3bc708e383dc9
 	@Test
 	private void tc() {
 		
@@ -113,7 +141,6 @@ public class Demo {
 ////		when().post("/rest/api/2/issue/{issue}/attachments").then().log().all().assertThat().statusCode(200);
 ////		
 //			
-		
 		
 		
 		
