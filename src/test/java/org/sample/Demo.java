@@ -16,6 +16,40 @@ import java.io.File;
 public class Demo {
 	
 	
+	private void kalai() {
+		
+		System.out.println("Hi this is kalai");
+
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	@Test
 	private void tc() {
 		
@@ -98,7 +132,6 @@ public class Demo {
 ////		when().post("/rest/api/2/issue/{issue}/attachments").then().log().all().assertThat().statusCode(200);
 ////		
 //			
-		
 		
 		
 		
